@@ -1,0 +1,12 @@
+{
+    "name": "vendor/smooth-scroll",
+    "description": "A very simple but effective smooth scrolling function using jquery with the some few lines of code.",
+    "license": "MIT LICENCE",
+    "authors": [
+        {
+            "name": "Jawad Ahmed",
+            "email": "jawadahmed91@live.com"
+        }
+    ],
+    "require": {}
+}
